@@ -1,1 +1,1 @@
-print("log some shits")
+print("log some shits_test")
