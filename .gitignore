@@ -1,0 +1,4 @@
+my_venv/
+#'*' it mean that every file that is .cpp
+*.cpp
+#u can search .gitignore in toptal site and get a .ingone usefull doc
